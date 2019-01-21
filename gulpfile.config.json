@@ -28,6 +28,7 @@
 					"node_modules/gsap/src/uncompressed/easing/EasePack.js",
 					"node_modules/gsap/src/uncompressed/TweenLite.js",
 					"node_modules/gsap/src/uncompressed/TweenMax.js",
+					"node_modules/ismobilejs/src/isMobile.js",
 					"node_modules/swiper/dist/js/swiper.js"
 				],
 				"output": "docs/js/vendors.js",
